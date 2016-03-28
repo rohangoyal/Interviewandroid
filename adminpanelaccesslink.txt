@@ -1,0 +1,3 @@
+http://delainetechnologies.com/haywood_drinks/app/admin/
+Usrname:admin
+Password: admin@123
